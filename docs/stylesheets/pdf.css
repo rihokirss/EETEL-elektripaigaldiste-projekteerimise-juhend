@@ -1,0 +1,82 @@
+/* PDF styles - sama värvipalett mis veebis */
+
+/* Cover page */
+#doc-cover h1 {
+    color: #1e3a5f;
+    border-bottom: 3px solid #3182ce;
+}
+
+#doc-cover h2 {
+    color: #2c5282;
+}
+
+#doc-cover address p {
+    color: #4a5568;
+}
+
+/* Headings */
+article h1 {
+    color: #1e3a5f;
+    border-bottom: 2px solid #3182ce;
+    padding-bottom: 0.3em;
+}
+
+article h2 {
+    color: #2c5282;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 0.2em;
+}
+
+article h3 {
+    color: #2c5282;
+}
+
+/* Links */
+a {
+    color: #3182ce;
+}
+
+/* Tables */
+table th {
+    background-color: #1e3a5f !important;
+    color: white !important;
+}
+
+table td {
+    border-color: #e2e8f0 !important;
+}
+
+/* Code */
+code {
+    background-color: #f0f4f8;
+    color: #1e3a5f;
+    padding: 0.1em 0.3em;
+    border-radius: 3px;
+}
+
+pre code {
+    background-color: #f7fafc;
+    color: #2d3748;
+}
+
+/* Admonitions */
+.admonition {
+    border-left: 4px solid #3182ce;
+}
+
+.admonition.tip {
+    border-left-color: #38a169;
+}
+
+.admonition.warning {
+    border-left-color: #d69e2e;
+}
+
+.admonition.danger {
+    border-left-color: #e53e3e;
+}
+
+/* Section dividers */
+section {
+    border-top-color: #e2e8f0;
+}

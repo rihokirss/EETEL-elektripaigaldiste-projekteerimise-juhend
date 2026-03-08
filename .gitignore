@@ -1,0 +1,5 @@
+.venv/
+site/
+ElektriJuhend.zip
+__pycache__/
+uploads/
