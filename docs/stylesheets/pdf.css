@@ -1,71 +1,71 @@
-/* PDF styles - sama värvipalett mis veebis */
+/* PDF styles - EETEL brändivärvid */
 
 /* Cover page */
 #doc-cover h1 {
-    color: #1e3a5f;
-    border-bottom: 3px solid #3182ce;
+    color: #1f5fa7;
+    border-bottom: 3px solid #1f5fa7;
 }
 
 #doc-cover h2 {
-    color: #2c5282;
+    color: #437bc6;
 }
 
 #doc-cover address p {
-    color: #4a5568;
+    color: #3a3a3a;
 }
 
 /* Headings */
 article h1 {
-    color: #1e3a5f;
-    border-bottom: 2px solid #3182ce;
+    color: #1f5fa7;
+    border-bottom: 2px solid #1f5fa7;
     padding-bottom: 0.3em;
 }
 
 article h2 {
-    color: #2c5282;
-    border-bottom: 1px solid #e2e8f0;
+    color: #1f5fa7;
+    border-bottom: 1px solid #ebebeb;
     padding-bottom: 0.2em;
 }
 
 article h3 {
-    color: #2c5282;
+    color: #437bc6;
 }
 
 /* Links */
 a {
-    color: #3182ce;
+    color: #1f5fa7;
 }
 
 /* Tables */
 table th {
-    background-color: #1e3a5f !important;
+    background-color: #1f5fa7 !important;
     color: white !important;
 }
 
 table td {
-    border-color: #e2e8f0 !important;
+    border-color: #ebebeb !important;
 }
 
 /* Code */
 code {
-    background-color: #f0f4f8;
-    color: #1e3a5f;
+    background-color: #f7f7f7;
+    color: #1f5fa7;
     padding: 0.1em 0.3em;
     border-radius: 3px;
 }
 
 pre code {
-    background-color: #f7fafc;
-    color: #2d3748;
+    background-color: #f7f7f7;
+    color: #222222;
 }
 
 /* Admonitions */
 .admonition {
-    border-left: 4px solid #3182ce;
+    border-left: 4px solid #1f5fa7;
 }
 
 .admonition.tip {
-    border-left-color: #38a169;
+    border-left-color: #015841;
 }
 
 .admonition.warning {
@@ -78,5 +78,5 @@ pre code {
 
 /* Section dividers */
 section {
-    border-top-color: #e2e8f0;
+    border-top-color: #ebebeb;
 }

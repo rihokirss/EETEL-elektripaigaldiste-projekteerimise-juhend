@@ -3,6 +3,7 @@ site_url: https://dmitrig372.github.io/ElektriJuhend/
 
 theme:
   name: material
+  custom_dir: overrides
   language: et
   logo: _assets/media/eetel_logo.svg
   favicon: _assets/media/eetel_logo.svg
@@ -27,39 +28,39 @@ theme:
     - navigation.footer
 
 nav:
-  - "1. Sissejuhatus":
-      - "1.1 Juhendi Eesmärk ja Käsitlusala": 1_Sissejuhatus/1.1_Juhendi_Eesmärk_ja_Käsitlusala.md
-      - "1.2 Juhendi Kasutamine": 1_Sissejuhatus/1.2_Juhendi_Kasutamine.md
-      - "1.3 Terminid ja Määratlused": 1_Sissejuhatus/1.3_Terminid_ja_Määratlused.md
-      - "1.4 Normatiivsed Viited": 1_Sissejuhatus/1.4_Normatiivsed_Viited.md
-      - "1.5 Vastutus ja Pädevus": 1_Sissejuhatus/1.5_Vastutus_ja_Pädevus.md
-  - "2. Projekteerimise põhimõtted":
-      - "2.1 Projekteerimise Etapid": 2_Projekteerimine/2.1_Projekteerimise_Etapid.md
-      - "2.2 Lähteülesanne ja Lähteandmed": 2_Projekteerimine/2.2_Lähteülesanne_ja_Lähteandmed.md
-      - "2.3 Koostöö Teiste Osapooltega": 2_Projekteerimine/2.3_Koostöö_Teiste_Osapooltega.md
-      - "2.4 Riskianalüüs ja Ohutus Projekteerimises": 2_Projekteerimine/2.4_Riskianalüüs_ja_Ohutus_Projekteerimises.md
-  - "3. Dokumentatsioon":
-      - "3.1 Üldnõuded Dokumentatsioonile": 3_Dokument/3.1_Üldnõuded_Dokumentatsioonile.md
-      - "3.2 Digitaalne Vormistamine ja Esitamine": 3_Dokument/3.2_Digitaalne_Vormistamine_ja_Esitamine.md
-      - "3.3 Dokumentide Struktuur Projektis": 3_Dokument/3.3_Dokumentide_Struktuur_Projektis.md
-      - "3.4 Jooniste Vormistamise Nõuded": 3_Dokument/3.4_Jooniste_Vormistamise_Nõuded.md
-      - "3.5 Skeemide Vormistamine ja Sisu": 3_Dokument/3.5_Skeemide_Vormistamise_ja_Sisu.md
-      - "3.6 Spetsifikatsioonid ja Loetelud": 3_Dokument/3.6_Spetsifikatsioonid_ja_Loetelud.md
+  - Sissejuhatus:
+      - "1.1 Eesmärk ja käsitlusala": 1_Sissejuhatus/1.1_Juhendi_Eesmärk_ja_Käsitlusala.md
+      - "1.2 Juhendi kasutamine": 1_Sissejuhatus/1.2_Juhendi_Kasutamine.md
+      - "1.3 Terminid ja määratlused": 1_Sissejuhatus/1.3_Terminid_ja_Määratlused.md
+      - "1.4 Normatiivsed viited": 1_Sissejuhatus/1.4_Normatiivsed_Viited.md
+      - "1.5 Vastutus ja pädevus": 1_Sissejuhatus/1.5_Vastutus_ja_Pädevus.md
+  - Projekteerimine:
+      - "2.1 Projekteerimise etapid": 2_Projekteerimine/2.1_Projekteerimise_Etapid.md
+      - "2.2 Lähteülesanne ja lähteandmed": 2_Projekteerimine/2.2_Lähteülesanne_ja_Lähteandmed.md
+      - "2.3 Koostöö teiste osapooltega": 2_Projekteerimine/2.3_Koostöö_Teiste_Osapooltega.md
+      - "2.4 Riskianalüüs ja ohutus": 2_Projekteerimine/2.4_Riskianalüüs_ja_Ohutus_Projekteerimises.md
+  - Dokumentatsioon:
+      - "3.1 Üldnõuded": 3_Dokument/3.1_Üldnõuded_Dokumentatsioonile.md
+      - "3.2 Digitaalne vormistamine": 3_Dokument/3.2_Digitaalne_Vormistamine_ja_Esitamine.md
+      - "3.3 Dokumentide struktuur": 3_Dokument/3.3_Dokumentide_Struktuur_Projektis.md
+      - "3.4 Jooniste vormistamine": 3_Dokument/3.4_Jooniste_Vormistamise_Nõuded.md
+      - "3.5 Skeemide vormistamine": 3_Dokument/3.5_Skeemide_Vormistamise_ja_Sisu.md
+      - "3.6 Spetsifikatsioonid": 3_Dokument/3.6_Spetsifikatsioonid_ja_Loetelud.md
       - "3.7 Arvutused": 3_Dokument/3.7_Arvutused.md
-  - "4. Tugevvool":
+  - Tugevvool:
       - "4.1 Tugevvool": 4_Tugevvool/4.1_Tugevvool.md
       - "4.2 Üldskeemid": 4_Tugevvool/4.2_Yldskeemid.md
       - "4.3 Kilbiskeemid": 4_Tugevvool/4.3_Kilbiskeemid.md
       - "4.4 Kaabliteed": 4_Tugevvool/4.4_Kaabliteed.md
       - "4.6 Jõupaigaldised": 4_Tugevvool/4.6_Jõupaigaldis.md
       - "4.7 Maandus ja piksekaitse": 4_Tugevvool/4.7_Maandus_piksekaitse.md
-  - "5. Valgustus":
+  - Valgustus:
       - "5.1 Valgustuspaigaldised": 5_Valgustus/5.1_Valgustuspaigaldised.md
       - "5.2 Välisvalgustus": 5_Valgustus/5.2_Välisvalgustus.md
-      - "5.3 Valgustusdisaini kontseptsioon": 5_Valgustus/5.3_Valgustusdisain.md
-  - "6. Nõrkvool (Arendamisel)":
+      - "5.3 Valgustusdisain": 5_Valgustus/5.3_Valgustusdisain.md
+  - "Nõrkvool*":
       - "Ülevaade": 6_Norkvool/6.1_Norkvool.md
-  - "7. Hooneautomaatika (Arendamisel)":
+  - "Automaatika*":
       - "Ülevaade": 7_Automaatika/index.md
       - "7.1 Hooneautomaatika": 7_Automaatika/7.1_Automaatika.md
       - "7.2 Üldnõuded ja standardid": 7_Automaatika/7.2_Yldnouded_ja_standardid.md
@@ -67,12 +68,12 @@ nav:
       - "7.4 Struktuurskeemid": 7_Automaatika/7.4_Struktuurskeemid.md
       - "7.5 Tasapinnaplaanid": 7_Automaatika/7.5_Tasapinnaplaanid.md
       - "7.6 Loetelud": 7_Automaatika/7.6_Loetelud.md
-      - "7.7 BIM Nõuded": 7_Automaatika/7.7_BIM_Nouded.md
-  - "8. BIM":
-      - "BIM Nõuded (viide ÜBN-le)": 8_BIM/8.1_BIM_Nouded.md
-  - "9. Kvaliteet (Arendamisel)":
+      - "7.7 BIM nõuded": 7_Automaatika/7.7_BIM_Nouded.md
+  - BIM:
+      - "BIM nõuded": 8_BIM/8.1_BIM_Nouded.md
+  - "Kvaliteet*":
       - "Ülevaade": 9_Kvaliteet/index.md
-  - "10. Lisad (Arendamisel)":
+  - "Lisad*":
       - "Ülevaade": 10_Lisad/index.md
 
 markdown_extensions:
@@ -102,4 +103,5 @@ extra_css:
   - stylesheets/extra.css
 
 extra:
+  generator: false
   version: "v1.0 – 15.04.2025"
