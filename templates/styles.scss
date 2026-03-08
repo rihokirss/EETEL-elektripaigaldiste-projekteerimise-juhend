@@ -1,20 +1,6 @@
-/* PDF styles - EETEL brändivärvid */
+/* EETEL brändivärvid - PDF override */
 
-/* Cover page */
-#doc-cover h1 {
-    color: #1f5fa7;
-    border-bottom: 3px solid #1f5fa7;
-}
-
-#doc-cover h2 {
-    color: #437bc6;
-}
-
-#doc-cover address p {
-    color: #3a3a3a;
-}
-
-/* Headings */
+/* Headings - kirjutab üle plugina punased jooned */
 h1 {
     color: #1f5fa7 !important;
     border-bottom: 2px solid #1f5fa7 !important;
@@ -30,6 +16,21 @@ h2 {
 h3 {
     color: #437bc6 !important;
     border-bottom: 0.5px solid #ebebeb !important;
+}
+
+/* Cover page */
+#doc-cover h1 {
+    color: #1f5fa7;
+    border-bottom: 3px solid #1f5fa7 !important;
+}
+
+#doc-cover h2 {
+    color: #437bc6;
+    border-bottom: none !important;
+}
+
+#doc-cover address p {
+    color: #3a3a3a;
 }
 
 /* Links */

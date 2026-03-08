@@ -96,7 +96,6 @@ plugins:
       cover_logo: _assets/media/eetel_logo.svg
       author: Eesti Elektritööde Ettevõtjate Liit (EETEL)
       copyright: "© 2026 EETEL"
-      custom_style_path: docs/stylesheets/pdf.css
       toc_title: Sisukord
       ordered_chapter_level: 0
       enabled_if_env: ENABLE_PDF_EXPORT
