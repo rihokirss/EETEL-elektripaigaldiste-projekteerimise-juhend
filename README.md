@@ -1,72 +1,29 @@
-# Elektripaigaldiste Projekteerimise Juhend
+# Elektripaigaldiste projekteerimise juhend
 
-See juhend on mõeldud elektripaigaldiste projekteerimise alustele ja parimatele praktikatele. Juhend sisaldab põhjalikku infot elektripaigaldiste projekteerimise erinevate aspektide kohta, alates sissejuhatusest kuni spetsiifiliste tehniliste detailideni.
+Eesti Elektritööde Ettevõtjate Liidu (EETEL) koostatud juhend elektripaigaldiste projekteerimise alustele ja parimatele praktikatele. Juhend sisaldab põhjalikku infot elektripaigaldiste projekteerimise erinevate aspektide kohta, alates sissejuhatusest kuni spetsiifiliste tehniliste detailideni.
+
+**Veebileht:** [juhend.elektriprojekteerimine.info](https://juhend.elektriprojekteerimine.info)
 
 ## Sisukord
 
-1. **Sissejuhatus**
-   - Juhendi eesmärk ja käsitlusala
-   - Juhendi kasutamine
-   - Terminid ja määratlused
-   - Normatiivsed viited
-   - Vastutus ja pädevus
-
-2. **Projekteerimise põhimõtted**
-   - Projekteerimise etapid
-   - Lähteülesanne ja lähteandmed
-   - Koostöö teiste osapooltega
-   - Riskianalüüs ja ohutus
-
-3. **Dokumentatsioon**
-   - Üldnõuded dokumentatsioonile
-   - Digitaalne vormistamine
-   - Dokumentide struktuur
-   - Jooniste ja skeemide nõuded
-
-4. **Tugevvool**
-   - Üldskeemid
-   - Kilbiskeemid
-   - Kaabliteed
-   - Jõupaigaldised
-   - Maandus ja piksekaitse
-
-5. **Valgustus**
-   - Valgustuspaigaldised
-   - Välisvalgustus
-   - Valgustusdisain
-
+1. **Sissejuhatus** — juhendi eesmärk, kasutamine, terminid, normatiivsed viited, vastutus ja pädevus
+2. **Projekteerimine** — etapid, lähteülesanne, koostöö, riskianalüüs ja ohutus
+3. **Dokumentatsioon** — üldnõuded, digitaalne vormistamine, struktuur, joonised, skeemid, spetsifikatsioonid, arvutused
+4. **Tugevvool** — üldskeemid, kilbiskeemid, kaabliteed, jõupaigaldised, maandus ja piksekaitse
+5. **Valgustus** — valgustuspaigaldised, välisvalgustus, valgustusdisain
 6. **Nõrkvool** *(arendamisel)*
-   - Andmevõrgud
-   - Turvasüsteemid
-   - Side- ja helisüsteemid
-
-7. **Hooneautomaatika** *(arendamisel)*
-   - Üldnõuded ja standardid
-   - Seletuskiri
-   - Struktuurskeemid
-   - Tasapinnaplaanid
-
-8. **BIM** *(arendamisel)*
-   - Üldpõhimõtted ja terminoloogia
-
+7. **Hooneautomaatika** — üldnõuded, seletuskiri, struktuurskeemid, tasapinnaplaanid, loetelud, BIM nõuded
+8. **BIM** — BIM nõuded elektriprojekteerimises
 9. **Kvaliteet** *(arendamisel)*
-   - Kontroll ja testimine
-   - Dokumentatsioon
-   - Standardid ja nõuded
-
 10. **Lisad** *(arendamisel)*
-    - Viited
-    - Sõnastik
-    - Näited
-    - Tabelid
 
 ## Funktsioonid
 
 - 10 peatükki elektripaigaldiste projekteerimisest
-- GitHub Pages hosting automaatse CI/CD-ga
 - Material for MkDocs teema
 - Hele/tume režiim
 - Täisteksti otsing
+- PDF allalaadimine
 - Eestikeelne sisu
 
 ## Tehnilised nõuded
@@ -74,21 +31,27 @@ See juhend on mõeldud elektripaigaldiste projekteerimise alustele ja parimatele
 - Python 3.8+
 - MkDocs 1.4.0+
 - MkDocs Material teema
+- mkdocs-with-pdf (PDF eksport)
 
 ## Paigaldus
 
 ```bash
 # Klooni repositoorium
-git clone https://github.com/DmitriG372/ElektriJuhend-pre-release.git
+git clone https://github.com/rihokirss/EETEL-elektripaigaldiste-projekteerimise-juhend.git
 
 # Liigu projekti kausta
-cd ElektriJuhend-pre-release
+cd EETEL-elektripaigaldiste-projekteerimise-juhend
 
-# Paigalda sõltuvused
+# Loo virtuaalkeskkond ja paigalda sõltuvused
+python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 
 # Käivita arendusserver
 mkdocs serve
+
+# Ehita koos PDF-iga
+ENABLE_PDF_EXPORT=1 mkdocs build
 ```
 
 ## Kaastöö
@@ -108,4 +71,5 @@ See projekt on litsentseeritud MIT litsentsi all.
 
 ## Kontakt
 
-Dmitri Gridin - [@dmitrig372](https://github.com/dmitrig372)
+- Riho Kirss — [riho@kirss.ee](mailto:riho@kirss.ee) — [@rihokirss](https://github.com/rihokirss)
+- Dmitri Gridin — [@dmitrig372](https://github.com/dmitrig372)
