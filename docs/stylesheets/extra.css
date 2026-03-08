@@ -2,11 +2,11 @@
 
 :root {
   /* Hele režiim - EETEL sinine */
-  --md-primary-fg-color: #1f5fa7;
-  --md-primary-fg-color--light: #437bc6;
-  --md-primary-fg-color--dark: #163f72;
-  --md-accent-fg-color: #437bc6;
-  --md-accent-fg-color--transparent: #437bc620;
+  --md-primary-fg-color: #1c60a9;
+  --md-primary-fg-color--light: #407cc6;
+  --md-primary-fg-color--dark: #03325e;
+  --md-accent-fg-color: #407cc6;
+  --md-accent-fg-color--transparent: #407cc620;
 }
 
 [data-md-color-scheme="slate"] {
@@ -16,17 +16,17 @@
   --md-default-bg-color--lighter: #223644;
   --md-default-bg-color--lightest: #2a4050;
 
-  --md-primary-fg-color: #1f5fa7;
-  --md-primary-fg-color--light: #437bc6;
-  --md-primary-fg-color--dark: #163f72;
+  --md-primary-fg-color: #1c60a9;
+  --md-primary-fg-color--light: #407cc6;
+  --md-primary-fg-color--dark: #03325e;
   --md-primary-bg-color: #f7f7f7;
   --md-primary-bg-color--light: #f7f7f7b3;
 
-  --md-accent-fg-color: #437bc6;
-  --md-accent-fg-color--transparent: #437bc620;
+  --md-accent-fg-color: #407cc6;
+  --md-accent-fg-color--transparent: #407cc620;
 
   --md-typeset-color: #d8dee4;
-  --md-typeset-a-color: #437bc6;
+  --md-typeset-a-color: #407cc6;
 
   --md-code-bg-color: #1c2d38;
   --md-code-fg-color: #e2e8f0;
@@ -46,7 +46,7 @@
 
 /* Navigation */
 [data-md-color-scheme="slate"] .md-nav__link--active {
-  color: #437bc6;
+  color: #407cc6;
 }
 
 /* Tables */
@@ -61,7 +61,7 @@
 
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
   background-color: #223644;
-  color: #437bc6;
+  color: #407cc6;
 }
 
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) td {
@@ -71,7 +71,7 @@
 /* Code */
 [data-md-color-scheme="slate"] .md-typeset code {
   background-color: #1c2d38;
-  color: #437bc6;
+  color: #407cc6;
 }
 
 [data-md-color-scheme="slate"] .md-typeset pre > code {
@@ -90,12 +90,12 @@
 }
 
 [data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li:hover {
-  border-color: #437bc6;
+  border-color: #407cc6;
 }
 
 /* Footer */
 .md-footer-meta {
-  background-color: #163f72;
+  background-color: #03325e;
 }
 
 [data-md-color-scheme="slate"] .md-footer-meta {

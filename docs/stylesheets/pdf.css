@@ -2,12 +2,12 @@
 
 /* Cover page */
 #doc-cover h1 {
-    color: #1f5fa7;
-    border-bottom: 3px solid #1f5fa7;
+    color: #1c60a9;
+    border-bottom: 3px solid #1c60a9;
 }
 
 #doc-cover h2 {
-    color: #437bc6;
+    color: #407cc6;
 }
 
 #doc-cover address p {
@@ -16,30 +16,30 @@
 
 /* Headings */
 h1 {
-    color: #1f5fa7 !important;
-    border-bottom: 2px solid #1f5fa7 !important;
+    color: #1c60a9 !important;
+    border-bottom: 2px solid #1c60a9 !important;
     padding-bottom: 0.3em;
 }
 
 h2 {
-    color: #1f5fa7 !important;
-    border-bottom: 1px solid #437bc6 !important;
+    color: #1c60a9 !important;
+    border-bottom: 1px solid #407cc6 !important;
     padding-bottom: 0.2em;
 }
 
 h3 {
-    color: #437bc6 !important;
+    color: #407cc6 !important;
     border-bottom: 0.5px solid #ebebeb !important;
 }
 
 /* Links */
 a {
-    color: #1f5fa7;
+    color: #1c60a9;
 }
 
 /* Tables */
 table th {
-    background-color: #1f5fa7 !important;
+    background-color: #1c60a9 !important;
     color: white !important;
 }
 
@@ -50,7 +50,7 @@ table td {
 /* Code */
 code {
     background-color: #f7f7f7;
-    color: #1f5fa7;
+    color: #1c60a9;
     padding: 0.1em 0.3em;
     border-radius: 3px;
 }
@@ -62,7 +62,7 @@ pre code {
 
 /* Admonitions */
 .admonition {
-    border-left: 4px solid #1f5fa7;
+    border-left: 4px solid #1c60a9;
 }
 
 .admonition.tip {
