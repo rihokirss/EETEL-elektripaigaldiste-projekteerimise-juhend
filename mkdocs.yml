@@ -29,7 +29,7 @@ theme:
 
 nav:
   - Sissejuhatus:
-      - "1.1 Eesmärk ja käsitlusala": 1_Sissejuhatus/1.1_Juhendi_Eesmärk_ja_Käsitlusala.md
+      - "1.1 Juhendi eesmärk ja käsitlusala": 1_Sissejuhatus/1.1_Juhendi_Eesmärk_ja_Käsitlusala.md
       - "1.2 Juhendi kasutamine": 1_Sissejuhatus/1.2_Juhendi_Kasutamine.md
       - "1.3 Terminid ja määratlused": 1_Sissejuhatus/1.3_Terminid_ja_Määratlused.md
       - "1.4 Normatiivsed viited": 1_Sissejuhatus/1.4_Normatiivsed_Viited.md
@@ -38,14 +38,14 @@ nav:
       - "2.1 Projekteerimise etapid": 2_Projekteerimine/2.1_Projekteerimise_Etapid.md
       - "2.2 Lähteülesanne ja lähteandmed": 2_Projekteerimine/2.2_Lähteülesanne_ja_Lähteandmed.md
       - "2.3 Koostöö teiste osapooltega": 2_Projekteerimine/2.3_Koostöö_Teiste_Osapooltega.md
-      - "2.4 Riskianalüüs ja ohutus": 2_Projekteerimine/2.4_Riskianalüüs_ja_Ohutus_Projekteerimises.md
+      - "2.4 Riskianalüüs ja ohutus projekteerimises": 2_Projekteerimine/2.4_Riskianalüüs_ja_Ohutus_Projekteerimises.md
   - Dokumentatsioon:
-      - "3.1 Üldnõuded": 3_Dokument/3.1_Üldnõuded_Dokumentatsioonile.md
-      - "3.2 Digitaalne vormistamine": 3_Dokument/3.2_Digitaalne_Vormistamine_ja_Esitamine.md
-      - "3.3 Dokumentide struktuur": 3_Dokument/3.3_Dokumentide_Struktuur_Projektis.md
-      - "3.4 Jooniste vormistamine": 3_Dokument/3.4_Jooniste_Vormistamise_Nõuded.md
-      - "3.5 Skeemide vormistamine": 3_Dokument/3.5_Skeemide_Vormistamise_ja_Sisu.md
-      - "3.6 Spetsifikatsioonid": 3_Dokument/3.6_Spetsifikatsioonid_ja_Loetelud.md
+      - "3.1 Üldnõuded dokumentatsioonile": 3_Dokument/3.1_Üldnõuded_Dokumentatsioonile.md
+      - "3.2 Digitaalne vormistamine ja esitamine": 3_Dokument/3.2_Digitaalne_Vormistamine_ja_Esitamine.md
+      - "3.3 Dokumentide struktuur projektis": 3_Dokument/3.3_Dokumentide_Struktuur_Projektis.md
+      - "3.4 Jooniste vormistamise nõuded": 3_Dokument/3.4_Jooniste_Vormistamise_Nõuded.md
+      - "3.5 Skeemide vormistamine ja sisu": 3_Dokument/3.5_Skeemide_Vormistamise_ja_Sisu.md
+      - "3.6 Spetsifikatsioonid ja loetelud": 3_Dokument/3.6_Spetsifikatsioonid_ja_Loetelud.md
       - "3.7 Arvutused": 3_Dokument/3.7_Arvutused.md
   - Tugevvool:
       - "4.1 Tugevvool": 4_Tugevvool/4.1_Tugevvool.md
@@ -57,7 +57,7 @@ nav:
   - Valgustus:
       - "5.1 Valgustuspaigaldised": 5_Valgustus/5.1_Valgustuspaigaldised.md
       - "5.2 Välisvalgustus": 5_Valgustus/5.2_Välisvalgustus.md
-      - "5.3 Valgustusdisain": 5_Valgustus/5.3_Valgustusdisain.md
+      - "5.3 Valgustusdisaini kontseptsioon": 5_Valgustus/5.3_Valgustusdisain.md
   - "Nõrkvool*":
       - "Ülevaade": 6_Norkvool/6.1_Norkvool.md
   - "Automaatika*":
@@ -92,11 +92,13 @@ plugins:
   - with-pdf:
       output_path: pdf/Elektripaigaldiste_Juhend.pdf
       cover_title: Elektripaigaldiste projekteerimise juhend
-      cover_subtitle: EETEL
+      cover_subtitle: "EETEL | v1.0 – 08.03.2026"
       cover_logo: _assets/media/eetel_logo.svg
       author: Eesti Elektritööde Ettevõtjate Liit (EETEL)
       copyright: "© 2026 EETEL"
       custom_style_path: docs/stylesheets/pdf.css
+      toc_title: Sisukord
+      ordered_chapter_level: 0
       enabled_if_env: ENABLE_PDF_EXPORT
 
 extra_css:
