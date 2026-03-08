@@ -1,5 +1,20 @@
 /* EETEL brändivärvid - PDF override */
 
+/* Fondid */
+body {
+    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif !important;
+    font-size: 10pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter Display', 'Inter', sans-serif !important;
+}
+
+code, pre code {
+    font-family: 'JetBrains Mono', 'JetBrains Mono NL', monospace !important;
+    font-size: 0.85em;
+}
+
 /* Headings - kirjutab üle plugina punased jooned */
 h1 {
     color: #1f5fa7 !important;
