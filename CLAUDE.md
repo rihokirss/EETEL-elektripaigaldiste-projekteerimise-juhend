@@ -52,6 +52,9 @@ Plugin `mkdocs-with-pdf` uses WeasyPrint. Key quirks:
 ### Content chapters
 Sections marked with `*` in nav (e.g., `Nõrkvool*`) are still in development. Chapters 1-5, 7-8 have content. Markdown files use Estonian lowercase title rules.
 
+### Content style guide
+See `docs/_assets/STYLE_GUIDE.md` for detailed writing rules: tone, heading hierarchy, list formatting, table structure (EP/PP/TP stages), EVS standard references, Estonian terminology, SI units, abbreviations, image naming conventions.
+
 ### Fonts (PDF only)
 Inter + Inter Display for text/headings, JetBrains Mono for code. Installed in `~/.local/share/fonts/`.
 
