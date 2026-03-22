@@ -51,7 +51,12 @@
 
 /* Tables */
 .md-typeset table:not([class]) {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
+}
+
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.4em 0.6em;
 }
 
 .md-typeset table:not([class]) th {
