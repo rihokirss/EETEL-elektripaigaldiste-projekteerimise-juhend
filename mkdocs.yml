@@ -51,12 +51,9 @@ nav:
       - "4.2 Üldskeemid": 4_Tugevvool/4.2_Yldskeemid.md
       - "4.3 Kilbiskeemid": 4_Tugevvool/4.3_Kilbiskeemid.md
       - "4.4 Kaabliteed": 4_Tugevvool/4.4_Kaabliteed.md
+      - "4.5 Valgustuse elektripaigaldis": 4_Tugevvool/4.5_Valgustuse_elektripaigaldis.md
       - "4.6 Jõupaigaldised": 4_Tugevvool/4.6_Jõupaigaldis.md
       - "4.7 Maandus ja piksekaitse": 4_Tugevvool/4.7_Maandus_piksekaitse.md
-  - Valgustus:
-      - "5.1 Valgustuspaigaldised": 5_Valgustus/5.1_Valgustuspaigaldised.md
-      - "5.2 Välisvalgustus": 5_Valgustus/5.2_Välisvalgustus.md
-      - "5.3 Valgustusdisaini kontseptsioon": 5_Valgustus/5.3_Valgustusdisain.md
   - "Nõrkvool*":
       - "Ülevaade": 6_Norkvool/6.1_Norkvool.md
   - "Hooneautomaatika*":
