@@ -93,6 +93,27 @@ pre code {
     border-left-color: #e53e3e;
 }
 
+/* Nested lists - tagada korrektne renderdus */
+ul ul, ol ul, ul ol, ol ol {
+    margin-left: 1.5em;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+li {
+    margin-bottom: 0.15em;
+}
+
+li > ul, li > ol {
+    display: block !important;
+}
+
+/* Tables */
+table {
+    width: 100%;
+    font-size: 0.85em;
+}
+
 /* Section dividers */
 section {
     border-top-color: #ebebeb;
