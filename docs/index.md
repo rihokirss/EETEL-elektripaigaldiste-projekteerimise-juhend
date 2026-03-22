@@ -15,6 +15,6 @@ Siin leiate detailse ülevaate kõigist projektifaasi etappidest ja parimatest p
 
 
 **Versioon:** 1.0
-**Kuupäev:** 08.03.2026
+**Kuupäev:** 22.03.2026
 
 [:material-file-download: Laadi alla PDF](pdf/Elektripaigaldiste_Juhend.pdf){ .md-button }

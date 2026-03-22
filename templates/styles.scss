@@ -79,18 +79,80 @@ pre code {
 /* Admonitions */
 .admonition {
     border-left: 4px solid #1c60a9;
+    padding: 0.8em 1em;
+    margin: 1em 0;
+    background-color: #f7f9fc;
+    page-break-inside: avoid;
+}
+
+.admonition-title {
+    font-weight: bold;
+    margin-bottom: 0.4em;
+}
+
+.admonition.info {
+    border-left-color: #1c60a9;
+    background-color: #f0f4fa;
+}
+
+.admonition.note {
+    border-left-color: #407cc6;
+    background-color: #f0f4fa;
 }
 
 .admonition.tip {
     border-left-color: #015841;
+    background-color: #f0faf5;
 }
 
 .admonition.warning {
     border-left-color: #d69e2e;
+    background-color: #fdf8f0;
 }
 
 .admonition.danger {
     border-left-color: #e53e3e;
+    background-color: #fdf0f0;
+}
+
+/* Page breaks - vältida leheküljevahetust pealkirja ja sisu vahel */
+h1, h2, h3, h4, h5, h6 {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+}
+
+/* Vältida page-break H2/H3 ees */
+h2, h3, h4 {
+    page-break-before: auto !important;
+    break-before: auto !important;
+    margin-top: 1.2em;
+}
+
+article h2 {
+    page-break-before: auto !important;
+}
+
+section, section + section, article section {
+    page-break-before: avoid !important;
+    break-before: avoid !important;
+    min-height: 0 !important;
+}
+
+article {
+    page-break-before: always;
+    min-height: 0 !important;
+}
+
+h2 + p, h3 + p, h4 + p,
+h2 + ul, h3 + ul, h4 + ul,
+h2 + ol, h3 + ol, h4 + ol,
+h2 + table, h3 + table, h4 + table {
+    page-break-before: avoid !important;
+}
+
+p, li {
+    orphans: 3;
+    widows: 3;
 }
 
 /* Nested lists - tagada korrektne renderdus */
@@ -106,6 +168,19 @@ li {
 
 li > ul, li > ol {
     display: block !important;
+}
+
+/* Pildid ja captionid */
+img {
+    margin-top: 0.5em;
+    margin-bottom: 0.3em;
+}
+
+p > em:only-child {
+    display: block;
+    margin-bottom: 1.2em;
+    font-size: 0.9em;
+    color: #555;
 }
 
 /* Tables */
