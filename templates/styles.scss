@@ -90,6 +90,18 @@ pre code {
     margin-bottom: 0.4em;
 }
 
+/* Eemalda ikoonid admonition pealkirjadelt PDF-is */
+.admonition-title::before {
+    content: none !important;
+    display: none !important;
+}
+
+.admonition-title .twemoji,
+.admonition-title svg,
+.admonition-title img {
+    display: none !important;
+}
+
 .admonition.info {
     border-left-color: #1c60a9;
     background-color: #f0f4fa;
