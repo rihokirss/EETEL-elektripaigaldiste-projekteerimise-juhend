@@ -1,4 +1,4 @@
-# 6. Nõrkvool
+# 5. Nõrkvool
 
 Käesolev peatükk on **arendamisel**.
 
@@ -12,7 +12,7 @@ Nõrkvoolupaigaldiste projekteerimise juhend käsitleb:
 
 ## Peatüki sisu
 
-- [6.1 Nõrkvool](6.1_Norkvool.md) – peatüki ülevaade ja sissejuhatus
+- [5.1 Nõrkvool](5.1_Norkvool.md) – peatüki ülevaade ja sissejuhatus
 
 ---
 

@@ -1,4 +1,4 @@
-# 9. Tuleohutuse automaatika
+# 7. Tuleohutuse automaatika
 
 Käesolev peatükk on **arendamisel**.
 
@@ -16,7 +16,7 @@ Tuleohutuse automaatika (EAT) projekteerimise juhend käsitleb tuleohutuspaigald
 
 ## Peatüki sisu
 
-- [9.1 Ülevaade ja põhimõtted](9.1_Tuleohutuse_automaatika.md) – EAT eesmärk, komponendid, monitooritavad süsteemid
+- [7.1 Ülevaade ja põhimõtted](7.1_Tuleohutuse_automaatika.md) – EAT eesmärk, komponendid, monitooritavad süsteemid
 
 ---
 

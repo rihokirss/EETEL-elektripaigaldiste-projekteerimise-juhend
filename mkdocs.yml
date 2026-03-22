@@ -55,19 +55,19 @@ nav:
       - "4.6 Jõupaigaldised": 4_Tugevvool/4.6_Jõupaigaldis.md
       - "4.7 Maandus ja piksekaitse": 4_Tugevvool/4.7_Maandus_piksekaitse.md
   - "Nõrkvool*":
-      - "Ülevaade": 6_Norkvool/6.1_Norkvool.md
+      - "Ülevaade": 5_Norkvool/5.1_Norkvool.md
   - "Hooneautomaatika*":
-      - "Ülevaade": 7_Automaatika/index.md
-      - "7.1 Hooneautomaatika": 7_Automaatika/7.1_Automaatika.md
-      - "7.2 Üldnõuded ja standardid": 7_Automaatika/7.2_Yldnouded_ja_standardid.md
-      - "7.3 Seletuskiri": 7_Automaatika/7.3_Seletuskiri.md
-      - "7.4 Struktuurskeemid": 7_Automaatika/7.4_Struktuurskeemid.md
-      - "7.5 Tasapinnaplaanid": 7_Automaatika/7.5_Tasapinnaplaanid.md
-      - "7.6 Loetelud": 7_Automaatika/7.6_Loetelud.md
-      - "7.7 BIM nõuded": 7_Automaatika/7.7_BIM_Nouded.md
+      - "Ülevaade": 6_Automaatika/index.md
+      - "6.1 Hooneautomaatika": 6_Automaatika/6.1_Automaatika.md
+      - "6.2 Üldnõuded ja standardid": 6_Automaatika/6.2_Yldnouded_ja_standardid.md
+      - "6.3 Seletuskiri": 6_Automaatika/6.3_Seletuskiri.md
+      - "6.4 Struktuurskeemid": 6_Automaatika/6.4_Struktuurskeemid.md
+      - "6.5 Tasapinnaplaanid": 6_Automaatika/6.5_Tasapinnaplaanid.md
+      - "6.6 Loetelud": 6_Automaatika/6.6_Loetelud.md
+      - "6.7 BIM nõuded": 6_Automaatika/6.7_BIM_Nouded.md
   - "Tuleohutuse automaatika*":
-      - "Ülevaade": 9_Tuleohutuse_automaatika/index.md
-      - "9.1 Ülevaade ja põhimõtted": 9_Tuleohutuse_automaatika/9.1_Tuleohutuse_automaatika.md
+      - "Ülevaade": 7_Tuleohutuse_automaatika/index.md
+      - "7.1 Ülevaade ja põhimõtted": 7_Tuleohutuse_automaatika/7.1_Tuleohutuse_automaatika.md
   - BIM:
       - "BIM nõuded": 8_BIM/8.1_BIM_Nouded.md
 
