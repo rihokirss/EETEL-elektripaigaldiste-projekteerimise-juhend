@@ -5,16 +5,26 @@ toc: false
 
 # Elektripaigaldiste projekteerimise juhend
 
-Tere tulemast Elektripaigaldiste projekteerimise juhendi juurde!  
-Siin leiate detailse ülevaate kõigist projektifaasi etappidest ja parimatest praktikadest, mis toetavad kvaliteetset elektripaigaldiste projekteerimist.
+Käesolev juhend koondab elektripaigaldiste projekteerimise parimad praktikad ja ühtlustab projektdokumentatsiooni kvaliteeti Eesti turul. Juhend on mõeldud kasutamiseks elektriprojektide koostamisel alates eelprojektist kuni tööprojektini.
 
 ![Juhendi ülevaade](_assets/media/overview.png)
 
+## Sisu
 
-### [Eesti Elektritööde Ettevõtjate Liidu (EETEL) soovituslik juhendmaterjal](https://eetel.ee)
+Juhend käsitleb elektripaigaldiste projekteerimist terviklikult:
 
+- **Projekteerimine** — projekteerimise etapid, lähteülesande koostamine, koostöö teiste eriosadega
+- **Dokumentatsioon** — vormistusnõuded, joonised, skeemid, spetsifikatsioonid, arvutused
+- **Tugevvool** — üldskeemid, kilbiskeemid, kaabliteed, jõupaigaldised, maandus ja piksekaitse
+- **Nõrkvool** — andmeside, turvasüsteemid ja muud nõrkvoolupaigaldised
+- **Hooneautomaatika** — automaatikasüsteemide projekteerimine
+- **Tuleohutuse automaatika** — tuleohutuspaigaldiste monitooring ja juhtimine (EAT)
+- **BIM** — ehitusinformatsiooni mudeldamise nõuded elektriprojektides
 
-**Versioon:** 1.0
-**Kuupäev:** 22.03.2026
+---
+
+Välja antud [Eesti Elektritööde Ettevõtjate Liidu (EETEL)](https://eetel.ee){ target="_blank" } soovituslikku juhendmaterjalina.
+
+**Versioon:** 1.0 | **Kuupäev:** 22.03.2026
 
 [:material-file-download: Laadi alla PDF](pdf/Elektripaigaldiste_Juhend.pdf){ .md-button }
