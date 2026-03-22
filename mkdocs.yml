@@ -71,10 +71,6 @@ nav:
       - "7.7 BIM nõuded": 7_Automaatika/7.7_BIM_Nouded.md
   - BIM:
       - "BIM nõuded": 8_BIM/8.1_BIM_Nouded.md
-  - "Kvaliteet*":
-      - "Ülevaade": 9_Kvaliteet/index.md
-  - "Lisad*":
-      - "Ülevaade": 10_Lisad/index.md
 
 markdown_extensions:
   - toc:
