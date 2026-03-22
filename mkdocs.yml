@@ -60,7 +60,7 @@ nav:
       - "5.3 Valgustusdisaini kontseptsioon": 5_Valgustus/5.3_Valgustusdisain.md
   - "Nõrkvool*":
       - "Ülevaade": 6_Norkvool/6.1_Norkvool.md
-  - "Automaatika*":
+  - "Hooneautomaatika*":
       - "Ülevaade": 7_Automaatika/index.md
       - "7.1 Hooneautomaatika": 7_Automaatika/7.1_Automaatika.md
       - "7.2 Üldnõuded ja standardid": 7_Automaatika/7.2_Yldnouded_ja_standardid.md
@@ -69,6 +69,9 @@ nav:
       - "7.5 Tasapinnaplaanid": 7_Automaatika/7.5_Tasapinnaplaanid.md
       - "7.6 Loetelud": 7_Automaatika/7.6_Loetelud.md
       - "7.7 BIM nõuded": 7_Automaatika/7.7_BIM_Nouded.md
+  - "Tuleohutuse automaatika*":
+      - "Ülevaade": 9_Tuleohutuse_automaatika/index.md
+      - "9.1 Tuleohutuse automaatika": 9_Tuleohutuse_automaatika/9.1_Tuleohutuse_automaatika.md
   - BIM:
       - "BIM nõuded": 8_BIM/8.1_BIM_Nouded.md
 
