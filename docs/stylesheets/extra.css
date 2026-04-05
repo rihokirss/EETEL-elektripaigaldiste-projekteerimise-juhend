@@ -49,6 +49,11 @@
   color: #407cc6;
 }
 
+/* Üldine teksti suurus */
+.md-typeset {
+  font-size: 0.70rem;
+}
+
 /* Tables */
 .md-typeset__table {
   width: 100%;

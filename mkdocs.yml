@@ -56,7 +56,7 @@ nav:
       - "4.7 Maandus ja piksekaitse": 4_Tugevvool/4.7_Maandus_piksekaitse.md
   - "Nõrkvool*":
       - "Ülevaade": 5_Norkvool/5.1_Norkvool.md
-  - "Hooneautomaatika*":
+  - Hooneautomaatika:
       - "Ülevaade": 6_Automaatika/index.md
       - "6.1 Hooneautomaatika": 6_Automaatika/6.1_Automaatika.md
       - "6.2 Üldnõuded ja standardid": 6_Automaatika/6.2_Yldnouded_ja_standardid.md
