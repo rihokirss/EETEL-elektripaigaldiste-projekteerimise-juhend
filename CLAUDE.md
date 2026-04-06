@@ -22,7 +22,7 @@ source .venv/bin/activate && ENABLE_PDF_EXPORT=1 mkdocs build
 systemctl --user restart elektrijuhend
 ```
 
-**Important:** Running `mkdocs build` without `ENABLE_PDF_EXPORT=1` deletes the PDF from `site/`. Always use the env var when PDF is needed.
+**Important:** Always build with `ENABLE_PDF_EXPORT=1`. When the user asks to "build", always use `ENABLE_PDF_EXPORT=1 mkdocs build`. Running without it deletes the PDF from `site/`.
 
 ## Architecture
 

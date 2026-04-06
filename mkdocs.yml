@@ -8,18 +8,18 @@ theme:
   logo: _assets/media/eetel_logo.svg
   favicon: _assets/media/eetel_logo.svg
   palette:
-    - scheme: slate
-      primary: custom
-      accent: custom
-      toggle:
-        icon: material/weather-sunny
-        name: Lülita heledasse režiimi
     - scheme: default
       primary: custom
       accent: custom
       toggle:
         icon: material/weather-night
         name: Lülita tumedasse režiimi
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Lülita heledasse režiimi
   features:
     - navigation.tabs
     - navigation.indexes
