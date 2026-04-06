@@ -186,6 +186,8 @@ li > ul, li > ol {
 img {
     margin-top: 0.5em;
     margin-bottom: 0.3em;
+    max-height: 780px !important;
+    width: auto;
 }
 
 p > em:only-child {
