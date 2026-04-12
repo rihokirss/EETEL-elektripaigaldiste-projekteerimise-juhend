@@ -5,7 +5,7 @@ Tugevvoolupaigaldiste projekteerimise juhend käsitleb elektripaigaldise põhis�
 ## Peatüki sisu
 
 - [4.1 Ülevaade](4.1_Tugevvool.md) – peatüki ülevaade ja sissejuhatus
-- [4.2 Üldskeemid](4.2_Yldskeemid.md) – elektrivarustuse ja magistraalvõrkude skeemid
+- [4.2 Skeemid](4.2_Yldskeemid.md) – elektrivarustuse ja magistraalvõrkude skeemid
 - [4.3 Kilbiskeemid](4.3_Kilbiskeemid.md) – jaotuskeskuste projekteerimine, nõuetelehed, skeemid ja laotised
 - [4.4 Kaabliteed](4.4_Kaabliteed.md) – kaabliteede plaanid, tüübid ja markeerimine
 - [4.5 Valgustuse toited ja juhtimine](4.5_Valgustuse_elektripaigaldis.md) – valgustuse toiteahelad, kaabeldus, juhtimisskeemid

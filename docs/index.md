@@ -27,7 +27,7 @@ Juhend käsitleb elektripaigaldiste projekteerimist terviklikult:
 
 - **Projekteerimine** — projekteerimise etapid, koostöö teiste eriosadega
 - **Dokumentatsioon** — vormistusnõuded, joonised, skeemid, spetsifikatsioonid, arvutused
-- **Tugevvool** — üldskeemid, kilbiskeemid, kaabliteed, jõupaigaldised, maandus ja piksekaitse
+- **Tugevvool** — skeemid, kilbiskeemid, kaabliteed, jõupaigaldised, maandus ja piksekaitse
 - **Nõrkvool** — andmeside, turvasüsteemid ja muud nõrkvoolupaigaldised
 - **Hooneautomaatika** — automaatikasüsteemide projekteerimine
 - **Tuleohutuse automaatika** — tuleohutuspaigaldiste monitooring ja juhtimine (EAT)
