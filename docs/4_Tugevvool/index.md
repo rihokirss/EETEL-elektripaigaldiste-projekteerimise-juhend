@@ -11,3 +11,4 @@ Tugevvoolupaigaldiste projekteerimise juhend käsitleb elektripaigaldise põhis�
 - [4.5 Valgustuse toited ja juhtimine](4.5_Valgustuse_elektripaigaldis.md) – valgustuse toiteahelad, kaabeldus, juhtimisskeemid
 - [4.6 Jõupaigaldised](4.6_Jõupaigaldis.md) – pistikupesad, KVJ, VK toited, eriseadmed
 - [4.7 Maandus ja piksekaitse](4.7_Maandus_piksekaitse.md) – piksekaitse, maandus- ja potentsiaaliühtlustussüsteemid
+- [4.8 Arvutused](4.8_Arvutused.md) – koormus-, lühisvool-, pingelanguarvutused ja dimensioneerimine

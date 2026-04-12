@@ -45,7 +45,6 @@ nav:
       - "3.4 Jooniste vormistamise nõuded": 3_Dokument/3.4_Jooniste_Vormistamise_Nõuded.md
       - "3.5 Skeemide vormistamine ja sisu": 3_Dokument/3.5_Skeemide_Vormistamise_ja_Sisu.md
       - "3.6 Spetsifikatsioonid ja loetelud": 3_Dokument/3.6_Spetsifikatsioonid_ja_Loetelud.md
-      - "3.7 Arvutused": 3_Dokument/3.7_Arvutused.md
   - Tugevvool:
       - "4.1 Ülevaade": 4_Tugevvool/4.1_Tugevvool.md
       - "4.2 Üldskeemid": 4_Tugevvool/4.2_Yldskeemid.md
@@ -54,6 +53,7 @@ nav:
       - "4.5 Valgustuse toited ja juhtimine": 4_Tugevvool/4.5_Valgustuse_elektripaigaldis.md
       - "4.6 Jõupaigaldised": 4_Tugevvool/4.6_Jõupaigaldis.md
       - "4.7 Maandus ja piksekaitse": 4_Tugevvool/4.7_Maandus_piksekaitse.md
+      - "4.8 Arvutused": 4_Tugevvool/4.8_Arvutused.md
   - "Nõrkvool*":
       - "Ülevaade": 5_Norkvool/5.1_Norkvool.md
   - Hooneautomaatika:

@@ -10,4 +10,3 @@ Projektdokumentatsioon on elektripaigaldiste projekteerimise põhiväljund. Kval
 - [3.4 Jooniste Vormistamise Nõuded](3.4_Jooniste_Vormistamise_Nõuded.md) – jooniste formaat, kihid, kirjanurk
 - [3.5 Skeemide Vormistamine ja Sisu](3.5_Skeemide_Vormistamise_ja_Sisu.md) – skeemide tüübid ja nõuded
 - [3.6 Spetsifikatsioonid ja Loetelud](3.6_Spetsifikatsioonid_ja_Loetelud.md) – materjalide ja seadmete spetsifikatsioonid
-- [3.7 Arvutused](3.7_Arvutused.md) – arvutuste vormistamine ja sisu
