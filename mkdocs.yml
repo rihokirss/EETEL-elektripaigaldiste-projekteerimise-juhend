@@ -96,7 +96,7 @@ plugins:
   - with-pdf:
       output_path: pdf/Elektripaigaldiste_Juhend.pdf
       cover_title: Elektripaigaldiste projekteerimise juhend
-      cover_subtitle: "EETEL | v1.0 – 05.04.2026"
+      cover_subtitle: "EETEL | v1.0 – 25.04.2026"
       cover_logo: _assets/media/eetel_logo_color.png
       author: Eesti Elektritööde Ettevõtjate Liit (EETEL)
       copyright: "© 2026 EETEL"
@@ -109,4 +109,4 @@ extra_css:
 
 extra:
   generator: false
-  version: "v1.0 – 05.04.2026"
+  version: "v1.0 – 25.04.2026"
