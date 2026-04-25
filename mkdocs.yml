@@ -46,8 +46,9 @@ nav:
       - "3.5 Skeemide vormistamine ja sisu": 3_Dokument/3.5_Skeemide_Vormistamise_ja_Sisu.md
       - "3.6 Spetsifikatsioonid ja loetelud": 3_Dokument/3.6_Spetsifikatsioonid_ja_Loetelud.md
   - Tugevvool:
-      - "4.1 Ülevaade": 4_Tugevvool/4.1_Tugevvool.md
-      - "4.2 Skeemid": 4_Tugevvool/4.2_Yldskeemid.md
+      - "Ülevaade": 4_Tugevvool/index.md
+      - "4.1 Tugevvool": 4_Tugevvool/4.1_Tugevvool.md
+      - "4.2 Skeemid": 4_Tugevvool/4.2_Skeemid.md
       - "4.3 Kilbiskeemid": 4_Tugevvool/4.3_Kilbiskeemid.md
       - "4.4 Kaabliteed": 4_Tugevvool/4.4_Kaabliteed.md
       - "4.5 Valgustuse toited ja juhtimine": 4_Tugevvool/4.5_Valgustuse_elektripaigaldis.md
