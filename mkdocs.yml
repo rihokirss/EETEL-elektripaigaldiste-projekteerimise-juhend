@@ -48,13 +48,15 @@ nav:
   - Tugevvool:
       - "Ülevaade": 4_Tugevvool/index.md
       - "4.1 Tugevvool": 4_Tugevvool/4.1_Tugevvool.md
-      - "4.2 Skeemid": 4_Tugevvool/4.2_Skeemid.md
-      - "4.3 Kilbiskeemid": 4_Tugevvool/4.3_Kilbiskeemid.md
-      - "4.4 Kaabliteed": 4_Tugevvool/4.4_Kaabliteed.md
-      - "4.5 Valgustuse toited ja juhtimine": 4_Tugevvool/4.5_Valgustuse_elektripaigaldis.md
-      - "4.6 Jõupaigaldise plaanid": 4_Tugevvool/4.6_Jõupaigaldis.md
-      - "4.7 Maandus ja piksekaitse": 4_Tugevvool/4.7_Maandus_piksekaitse.md
-      - "4.8 Arvutused": 4_Tugevvool/4.8_Arvutused.md
+      - "4.2 Üldnõuded ja standardid": 4_Tugevvool/4.2_Yldnouded_ja_standardid.md
+      - "4.3 Seletuskiri": 4_Tugevvool/4.3_Seletuskiri.md
+      - "4.4 Skeemid": 4_Tugevvool/4.4_Skeemid.md
+      - "4.5 Kilbiskeemid": 4_Tugevvool/4.5_Kilbiskeemid.md
+      - "4.6 Kaabliteed": 4_Tugevvool/4.6_Kaabliteed.md
+      - "4.7 Valgustuse toited ja juhtimine": 4_Tugevvool/4.7_Valgustuse_elektripaigaldis.md
+      - "4.8 Jõupaigaldise plaanid": 4_Tugevvool/4.8_Jõupaigaldis.md
+      - "4.9 Maandus ja piksekaitse": 4_Tugevvool/4.9_Maandus_piksekaitse.md
+      - "4.10 Arvutused": 4_Tugevvool/4.10_Arvutused.md
   - "Nõrkvool*":
       - "Ülevaade": 5_Norkvool/5.1_Norkvool.md
   - Hooneautomaatika:
