@@ -1,7 +1,5 @@
 # 6. Hooneautomaatika
 
-Käesolev peatükk on **arendamisel**.
-
 Hooneautomaatika (Building Automation and Control Systems – BACS) projekteerimise juhend käsitleb hoone tehnosüsteemide juhtimist ja integreerimist.
 
 ## Peatüki sisu
