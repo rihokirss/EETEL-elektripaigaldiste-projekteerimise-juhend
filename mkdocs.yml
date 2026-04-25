@@ -70,7 +70,12 @@ nav:
       - "6.7 BIM nõuded": 6_Automaatika/6.7_BIM_Nouded.md
   - "Tuleohutuse automaatika*":
       - "Ülevaade": 7_Tuleohutuse_automaatika/index.md
-      - "7.1 Ülevaade ja põhimõtted": 7_Tuleohutuse_automaatika/7.1_Tuleohutuse_automaatika.md
+      - "7.1 Tuleohutuse automaatika": 7_Tuleohutuse_automaatika/7.1_Tuleohutuse_automaatika.md
+      - "7.2 Üldnõuded ja standardid": 7_Tuleohutuse_automaatika/7.2_Yldnouded_ja_standardid.md
+      - "7.3 Seletuskiri": 7_Tuleohutuse_automaatika/7.3_Seletuskiri.md
+      - "7.4 Struktuur- ja funktsionaalskeemid": 7_Tuleohutuse_automaatika/7.4_Struktuurskeemid.md
+      - "7.5 Tasapinnaplaanid": 7_Tuleohutuse_automaatika/7.5_Tasapinnaplaanid.md
+      - "7.6 Loetelud": 7_Tuleohutuse_automaatika/7.6_Loetelud.md
   - BIM:
       - "BIM nõuded": 8_BIM/8.1_BIM_Nouded.md
 
