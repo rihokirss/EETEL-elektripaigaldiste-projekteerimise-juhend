@@ -29,7 +29,7 @@ Juhend käsitleb elektripaigaldiste projekteerimist terviklikult:
 
 Välja antud [Eesti Elektritööde Ettevõtjate Liidu (EETEL)](https://eetel.ee){ target="_blank" } soovituslikku juhendmaterjalina.
 
-**Versioon:** 1.0 | **Kuupäev:** 25.04.2026
+**Versioon:** 26.5 | **Kuupäev:** 03.05.2026
 
 [:material-file-download: Laadi alla PDF](pdf/Elektripaigaldiste_Juhend.pdf){ .md-button }
 
