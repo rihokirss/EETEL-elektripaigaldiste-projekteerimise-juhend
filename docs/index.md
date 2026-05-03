@@ -45,4 +45,5 @@ Juhend on loodud koostöös järgmiste ettevõtete ja organisatsioonidega:
 | Pluvo Eesti OÜ | Anraco OÜ | Elin OÜ | Elvar OÜ |
 | Firstel Group AS | Golero OÜ | KH Energia-Konsult AS | Melte OÜ |
 | Rantell AS | RR Elekter OÜ | TERA AS | E-Service AS |
-| A&K Elektriinsenerid OÜ | Cadmatic EAC OY | Connecto Infra AS | |
+| A&K Elektriinsenerid OÜ | Cadmatic EAC OY | Connecto Infra AS | Ecomatic AS |
+| Teleprojekt OÜ | | | |
