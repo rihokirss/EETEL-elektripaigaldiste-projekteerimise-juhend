@@ -18,11 +18,19 @@ source .venv/bin/activate && mkdocs build
 # Build HTML + PDF (slow, ~16s)
 source .venv/bin/activate && ENABLE_PDF_EXPORT=1 mkdocs build
 
+# Build HTML + PDF + DOCX (one-shot wrapper)
+./build.sh                # all three
+./build.sh --no-docx      # HTML + PDF
+./build.sh --no-pdf       # HTML only
+
 # Restart web server after build
 systemctl --user restart elektrijuhend
 ```
 
-**Important:** Always build with `ENABLE_PDF_EXPORT=1`. When the user asks to "build", always use `ENABLE_PDF_EXPORT=1 mkdocs build`. Running without it deletes the PDF from `site/`.
+**Important:** Always build with `ENABLE_PDF_EXPORT=1`. When the user asks to "build", always use `ENABLE_PDF_EXPORT=1 mkdocs build` (or `./build.sh`). Running without it deletes the PDF from `site/`.
+
+### DOCX export
+`build-docx.py` produces `site/pdf/Elektripaigaldiste_Juhend.docx` from the markdown sources via pandoc (pypandoc-binary). Concatenates files in `mkdocs.yml` nav order, normalises image paths, unwraps `<figure markdown="span">` blocks into plain images so pandoc emits proper Word figures with captions, and disables pandoc's `multiline_tables` extension (otherwise `---` HRs after pipe tables retroactively absorb subsequent sections).
 
 ## Architecture
 
