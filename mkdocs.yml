@@ -83,6 +83,7 @@ markdown_extensions:
   - toc:
       permalink: true
   - admonition
+  - pymdownx.details
   - footnotes
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -98,7 +99,7 @@ plugins:
       cover_title: Elektripaigaldiste projekteerimise juhend
       cover_subtitle: "EETEL | v26.5 – 03.05.2026"
       cover_logo: _assets/media/eetel_logo_color.png
-      author: Eesti Elektritööde Ettevõtjate Liit (EETEL)
+      author: EETEL elektriprojekteerijate toimkond
       copyright: "© 2026 EETEL"
       toc_title: Sisukord
       ordered_chapter_level: 0
